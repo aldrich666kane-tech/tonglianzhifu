@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as l,ag as e}from"./chunks/framework.B-XtCDNB.js";const y=JSON.parse('{"title":"卷末附录集","description":"","frontmatter":{},"headers":[],"relativePath":"卷末附录集.md","filePath":"卷末附录集.md"}'),n={name:"卷末附录集.md"};function i(d,t,r,h,g,p){return l(),a("div",null,[...t[0]||(t[0]=[e("",63)])])}const x=s(n,[["render",i]]);export{y as __pageData,x as default};

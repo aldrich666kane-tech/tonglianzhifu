@@ -1,1 +1,0 @@
-import{_ as t,c as o,o as r,ag as s}from"./chunks/framework.B-XtCDNB.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"卷十.md","filePath":"卷十.md"}'),n={name:"卷十.md"};function i(g,l,p,u,e,a){return r(),o("div",null,[...l[0]||(l[0]=[s("",22)])])}const A=t(n,[["render",i]]);export{c as __pageData,A as default};
